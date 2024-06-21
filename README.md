@@ -2,4 +2,4 @@
 
 Banco de dados de uma locadora de filmes 
 
-<img src="MicrosoftTeams-imagem">
+<img src="/MicrosoftTeams-imagem">
