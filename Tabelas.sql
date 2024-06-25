@@ -1,3 +1,6 @@
+-- Criação do Banco de Dados Locação de Filmes:
+create database LocacaoFilme;
+
 -- Tabela ENDERECO
 CREATE TABLE ENDERECO (
     COD_END serial primary key not null,
